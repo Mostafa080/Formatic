@@ -162,7 +162,7 @@ class  {
     static const colorColorsSuccess300 = Color(0xFF75E0A7);
     static const colorColorsSuccess400 = Color(0xFF47CD89);
     static const colorColorsSuccess50 = Color(0xFFECFDF3);
-    static const colorColorsSuccess500 = Color(0xFFB27417);
+    static const colorColorsSuccess500 = Color(0xFF17BC6F);
     static const colorColorsSuccess600 = Color(0xFF079455);
     static const colorColorsSuccess700 = Color(0xFF067647);
     static const colorColorsSuccess800 = Color(0xFF085D3A);
