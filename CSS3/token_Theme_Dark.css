@@ -72,10 +72,10 @@
   --color-text-brand-primary: #5f09ff;
   --color-text-brand-secondary: #290073;
   --color-text-brand-secondary-hover: #290073;
-  --color-text-brand-tertiary-600: #4500c6;
+  --color-text-brand-tertiary: #4500c6;
   --color-text-brand-tertiary-alt: #4500c6;
   --color-text-disabled: #697586;
-  --color-text-error-primary-600: #d92d20;
+  --color-text-error-primary: #d92d20;
   --color-text-error-primary-hover: #b42318;
   --color-text-placeholder: #697586;
   --color-text-placeholder-subtle: #cdd5df;
@@ -83,7 +83,7 @@
   --color-text-primary-on-brand: #ffffff;
   --color-text-quaternary: #697586;
   --color-text-quaternary-on-brand: #9152ff;
-  --color-text-secondary-700: #364152;
+  --color-text-secondary: #697586;
   --color-text-secondary-hover: #202939;
   --color-text-secondary-on-brand: #a76fff;
   --color-text-success-primary: #079455;
