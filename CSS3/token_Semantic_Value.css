@@ -26,7 +26,7 @@
   --color-colors-background-secondary-subtle: #f8fafc;
   --color-colors-background-success-primary: #ecfdf3;
   --color-colors-background-success-secondary: #dcfae6;
-  --color-colors-background-success-solid: #17b26a;
+  --color-colors-background-success-solid: #b27417;
   --color-colors-background-tertiary: #e3e8ef;
   --color-colors-background-warning-primary: #fffaeb;
   --color-colors-background-warning-secondary: #fedf89;
@@ -50,7 +50,7 @@
   --color-colors-foreground-disabled-subtle: #cdd5df;
   --color-colors-foreground-error-primary: #d92d20;
   --color-colors-foreground-error-secondary: #f04438;
-  --color-colors-foreground-fg-success-secondary: #17b26a;
+  --color-colors-foreground-fg-success-secondary: #b27417;
   --color-colors-foreground-primary: #121926;
   --color-colors-foreground-quaternary: #9aa4b2;
   --color-colors-foreground-quaternary-hover: #697586;
@@ -66,7 +66,7 @@
   --color-colors-icon-brand: #4403b9;
   --color-colors-icon-featured-error: #f04438;
   --color-colors-icon-featured-gray: #697586;
-  --color-colors-icon-featured-success: #17b26a;
+  --color-colors-icon-featured-success: #b27417;
   --color-colors-icon-featured-warning: #f79009;
   --color-colors-icon-on-brand: #a270ff;
   --color-colors-text-brand-primary: #1d0051;
