@@ -14,10 +14,10 @@
   --color-background-error-solid: #f04438;
   --color-background-error-solid-hover: #b42318;
   --color-background-overlay: #121926;
-  --color-background-primary: #202939;
+  --color-background-primary: #f8fafc;
   --color-background-primary-hover: #f8fafc;
   --color-background-primary-solid: #ffffff;
-  --color-background-primary-alt: #f8fafc;
+  --color-background-primary-alt: #fcfcfd;
   --color-background-quaternary: #e3e8ef;
   --color-background-secondary: #eef2f6;
   --color-background-secondary-solid: #4b5565;
@@ -62,7 +62,7 @@
   --color-foreground-warning-primary: #dc6803;
   --color-foreground-warning-secondary: #f79009;
   --color-foreground-white: #ffffff;
-  --color-icon-primary: #ffffff;
+  --color-icon-primary: #697586;
   --color-icon-brand: #5f09ff;
   --color-icon-featured-error: #f04438;
   --color-icon-featured-gray: #697586;
@@ -72,10 +72,10 @@
   --color-text-brand-primary: #5f09ff;
   --color-text-brand-secondary: #290073;
   --color-text-brand-secondary-hover: #290073;
-  --color-text-brand-tertiary-600: #4500c6;
+  --color-text-brand-tertiary: #4500c6;
   --color-text-brand-tertiary-alt: #4500c6;
   --color-text-disabled: #697586;
-  --color-text-error-primary-600: #d92d20;
+  --color-text-error-primary: #d92d20;
   --color-text-error-primary-hover: #b42318;
   --color-text-placeholder: #697586;
   --color-text-placeholder-subtle: #cdd5df;
@@ -83,7 +83,7 @@
   --color-text-primary-on-brand: #ffffff;
   --color-text-quaternary: #697586;
   --color-text-quaternary-on-brand: #9152ff;
-  --color-text-secondary-700: #364152;
+  --color-text-secondary: #697586;
   --color-text-secondary-hover: #202939;
   --color-text-secondary-on-brand: #a76fff;
   --color-text-success-primary: #079455;
