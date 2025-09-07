@@ -11,7 +11,7 @@
   --content-typo-display-lg-semi-bold-weight: Semibold;
   --content-typo-display-md-bold-weight: Bold;
   --content-typo-display-md-light-weight: Light;
-  --content-typo-display-md-med-weight: Regular;
+  --content-typo-display-md-med-weight: Medium;
   --content-typo-display-md-reg-weight: Regular;
   --content-typo-display-md-semi-bold-weight: Semibold;
   --content-typo-display-sm-bold-weight: Bold;
@@ -26,22 +26,22 @@
   --content-typo-display-xl-semi-bold-weight: Semibold;
   --content-typo-display-xs-bold-weight: Bold;
   --content-typo-display-xs-light-weight: Light;
-  --content-typo-display-xs-med-weight: Regular;
+  --content-typo-display-xs-med-weight: Medium;
   --content-typo-display-xs-reg-weight: Regular;
   --content-typo-display-xs-semi-bold-weight: Semibold;
   --content-typo-text-lg-bold-weight: Bold;
   --content-typo-text-lg-light-weight: Light;
-  --content-typo-text-lg-med-weight: Regular;
+  --content-typo-text-lg-med-weight: Medium;
   --content-typo-text-lg-reg-weight: Regular;
   --content-typo-text-lg-semi-bold-weight: Semibold;
   --content-typo-text-md-bold-weight: Bold;
   --content-typo-text-md-light-weight: Light;
-  --content-typo-text-md-med-weight: Regular;
+  --content-typo-text-md-med-weight: Medium;
   --content-typo-text-md-reg-weight: Regular;
   --content-typo-text-md-semi-bold-weight: Semibold;
   --content-typo-text-sm-bold-weight: Bold;
   --content-typo-text-sm-light-weight: Light;
-  --content-typo-text-sm-med-weight: Regular;
+  --content-typo-text-sm-med-weight: Medium;
   --content-typo-text-sm-reg-weight: Regular;
   --content-typo-text-sm-semi-bold-weight: Semibold;
   --content-typo-text-xl-bold-weight: Bold;
@@ -51,7 +51,7 @@
   --content-typo-text-xl-semi-bold-weight: Semibold;
   --content-typo-text-xs-bold-weight: Bold;
   --content-typo-text-xs-light-weight: Light;
-  --content-typo-text-xs-med-weight: Regular;
+  --content-typo-text-xs-med-weight: Medium;
   --content-typo-text-xs-reg-weight: Regular;
   --content-typo-text-xs-semi-bold-weight: Semibold;
 }
