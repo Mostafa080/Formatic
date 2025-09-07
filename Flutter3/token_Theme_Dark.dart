@@ -82,10 +82,10 @@ class  {
     static const colorTextBrandPrimary = Color(0xFF5F09FF);
     static const colorTextBrandSecondary = Color(0xFF290073);
     static const colorTextBrandSecondaryHover = Color(0xFF290073);
-    static const colorTextBrandTertiary600 = Color(0xFF4500C6);
+    static const colorTextBrandTertiary = Color(0xFF4500C6);
     static const colorTextBrandTertiaryAlt = Color(0xFF4500C6);
     static const colorTextDisabled = Color(0xFF697586);
-    static const colorTextErrorPrimary600 = Color(0xFFD92D20);
+    static const colorTextErrorPrimary = Color(0xFFD92D20);
     static const colorTextErrorPrimaryHover = Color(0xFFB42318);
     static const colorTextPlaceholder = Color(0xFF697586);
     static const colorTextPlaceholderSubtle = Color(0xFFCDD5DF);
@@ -93,7 +93,7 @@ class  {
     static const colorTextPrimaryOnBrand = Color(0xFFFFFFFF);
     static const colorTextQuaternary = Color(0xFF697586);
     static const colorTextQuaternaryOnBrand = Color(0xFF9152FF);
-    static const colorTextSecondary700 = Color(0xFF364152);
+    static const colorTextSecondary = Color(0xFF697586);
     static const colorTextSecondaryHover = Color(0xFF202939);
     static const colorTextSecondaryOnBrand = Color(0xFFA76FFF);
     static const colorTextSuccessPrimary = Color(0xFF079455);
