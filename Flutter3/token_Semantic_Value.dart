@@ -36,7 +36,7 @@ class  {
     static const colorColorsBackgroundSecondarySubtle = Color(0xFFF8FAFC);
     static const colorColorsBackgroundSuccessPrimary = Color(0xFFECFDF3);
     static const colorColorsBackgroundSuccessSecondary = Color(0xFFDCFAE6);
-    static const colorColorsBackgroundSuccessSolid = Color(0xFF17B26A);
+    static const colorColorsBackgroundSuccessSolid = Color(0xFFB27417);
     static const colorColorsBackgroundTertiary = Color(0xFFE3E8EF);
     static const colorColorsBackgroundWarningPrimary = Color(0xFFFFFAEB);
     static const colorColorsBackgroundWarningSecondary = Color(0xFFFEDF89);
@@ -60,7 +60,7 @@ class  {
     static const colorColorsForegroundDisabledSubtle = Color(0xFFCDD5DF);
     static const colorColorsForegroundErrorPrimary = Color(0xFFD92D20);
     static const colorColorsForegroundErrorSecondary = Color(0xFFF04438);
-    static const colorColorsForegroundFgSuccessSecondary = Color(0xFF17B26A);
+    static const colorColorsForegroundFgSuccessSecondary = Color(0xFFB27417);
     static const colorColorsForegroundPrimary = Color(0xFF121926);
     static const colorColorsForegroundQuaternary = Color(0xFF9AA4B2);
     static const colorColorsForegroundQuaternaryHover = Color(0xFF697586);
@@ -75,7 +75,7 @@ class  {
     static const colorColorsIconBrand = Color(0xFF4403B9);
     static const colorColorsIconFeaturedError = Color(0xFFF04438);
     static const colorColorsIconFeaturedGray = Color(0xFF697586);
-    static const colorColorsIconFeaturedSuccess = Color(0xFF17B26A);
+    static const colorColorsIconFeaturedSuccess = Color(0xFFB27417);
     static const colorColorsIconFeaturedWarning = Color(0xFFF79009);
     static const colorColorsIconOnBrand = Color(0xFFA270FF);
     static const colorColorsIconPrimary = Color(0xFFFFFFFF);
