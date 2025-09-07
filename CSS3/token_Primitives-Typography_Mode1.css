@@ -1,0 +1,9 @@
+:root {
+  --content-family-font-family-body: IBM Plex Sans Arabic;
+  --content-family-font-family-display: IBM Plex Sans Arabic;
+  --content-weight-bold: Bold;
+  --content-weight-light: Light;
+  --content-weight-medium: Medium;
+  --content-weight-regular: Regular;
+  --content-weight-semibold: Semibold;
+}
