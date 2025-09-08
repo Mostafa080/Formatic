@@ -47,7 +47,7 @@ class  {
     static const colorBorderDisabledSubtle = Color(0xFFE3E8EF);
     static const colorBorderError = Color(0xFFF04438);
     static const colorBorderErrorSubtle = Color(0xFFFDA29B);
-    static const colorBorderPrimary = Color(0xFFCDD5DF);
+    static const colorBorderPrimary = Color(0xFF364152);
     static const colorBorderSecondary = Color(0xFFE3E8EF);
     static const colorBorderSecondaryAlt = Color(0x80000000);
     static const colorBorderTertiary = Color(0xFFEEF2F6);
@@ -87,6 +87,7 @@ class  {
     static const colorTextDisabled = Color(0xFF697586);
     static const colorTextErrorPrimary = Color(0xFFD92D20);
     static const colorTextErrorPrimaryHover = Color(0xFFB42318);
+    static const colorTextLink = Color(0xFF5F09FF);
     static const colorTextPlaceholder = Color(0xFF697586);
     static const colorTextPlaceholderSubtle = Color(0xFFCDD5DF);
     static const colorTextPrimary = Color(0xFFFFFFFF);
