@@ -37,7 +37,7 @@
   --color-border-disabled-subtle: #e3e8ef;
   --color-border-error: #f04438;
   --color-border-error-subtle: #fda29b;
-  --color-border-primary: #cdd5df;
+  --color-border-primary: #364152;
   --color-border-secondary: #e3e8ef;
   --color-border-secondary-alt: rgba(0, 0, 0, 0.5);
   --color-border-tertiary: #eef2f6;
@@ -77,6 +77,7 @@
   --color-text-disabled: #697586;
   --color-text-error-primary: #d92d20;
   --color-text-error-primary-hover: #b42318;
+  --color-text-link: #5f09ff;
   --color-text-placeholder: #697586;
   --color-text-placeholder-subtle: #cdd5df;
   --color-text-primary: #ffffff;
