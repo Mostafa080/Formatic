@@ -1,36 +1,27 @@
 :root {
-  --color-background-active: #f8fafc;
-  --color-background-brand-primary: #5f09ff;
-  --color-background-brand-primary-alt: #ebddfb;
-  --color-background-brand-secondary: #a76fff;
-  --color-background-brand-section: #4500c6;
-  --color-background-brand-section-subtle: #290073;
-  --color-background-brand-solid: #5f09ff;
-  --color-background-brand-solid-hover: #4500c6;
-  --color-background-disabled: #cdd5df;
-  --color-background-disabled-subtle: #f8fafc;
-  --color-background-error-primary: #fef3f2;
-  --color-background-error-secondary: #fecdca;
-  --color-background-error-solid: #f04438;
-  --color-background-error-solid-hover: #b42318;
-  --color-background-overlay: #121926;
-  --color-background-primary: #202939;
-  --color-background-primary-hover: #f8fafc;
-  --color-background-primary-solid: #121926;
-  --color-background-primary-alt: #f8fafc;
-  --color-background-quaternary: #e3e8ef;
-  --color-background-secondary: #eef2f6;
-  --color-background-secondary-solid: #4b5565;
-  --color-background-secondary-alt: #eef2f6;
-  --color-background-secondary-hover: #eaecf5;
-  --color-background-secondary-subtle: #f8fafc;
-  --color-background-success-primary: #ecfdf3;
-  --color-background-success-secondary: #dcfae6;
-  --color-background-success-solid: #17bc6f;
-  --color-background-tertiary: #e3e8ef;
-  --color-background-warning-primary: #fffaeb;
-  --color-background-warning-secondary: #fedf89;
-  --color-background-warning-solid: #dc6803;
+  --color-bg-accent: #0f0f11; /* Brand/primary accent surface (promos, emphasis blocks */
+  --color-bg-accent-subtle: #363636; /* Soft brand tint for gentle emphasis. */
+  --color-bg-display: #5f09ff; /* Disabled containers or non-interactive blocks. */
+  --color-bg-error-primary: #f04438;
+  --color-bg-error-subtle: #fee4e2;
+  --color-bg-floating: #5f09ff; /* Highest elevation surface (menu, tooltip, dropdown body */
+  --color-bg-focused: #eaecf5; /* For components that use a surface change on focus (rare; often border handles */
+  --color-bg-hover: #4500c6; /* Hovered container/list item/tab. */
+  --color-bg-info-primary: #2970ff;
+  --color-bg-info-subtle: #d1e0ff;
+  --color-bg-inverse: #eef2f6; /* Opposite of default for inverted areas (e.g., dark footer in light theme) */
+  --color-bg-overlay: rgba(0, 0, 0, 0.5); /* Modal/drawer overlay (click-to-dismiss layer) */
+  --color-bg-pressed: #2f00ae; /* Pressed/active container state */
+  --color-bg-primary: #000000; /* App/page canvas background */
+  --color-bg-selected: #230082; /* Selected row/card/tab background */
+  --color-bg-subtle: #161618; /* Secondary sections; light blocks that sit on default */
+  --color-bg-success: #17bc6f; /* Strong success surfaces (confirmation banners/toasts) */
+  --color-bg-success-subtle: #dcfae6; /* Soft success tint (inline success, quiet banners) */
+  --color-bg-surface: #0f0f11; /* Primary card/container background. */
+  --color-bg-surface-raised: #363636; /* Elevated surface (sheet, sidebar, popover body */
+  --color-bg-transparent: rgba(0, 0, 0, 0.5); /* Utility for transparent surfaces/ghost containers */
+  --color-bg-warning-primary: #f79009;
+  --color-bg-warning-subtle: #fef0c7;
   --color-border-brand: #5f09ff;
   --color-border-brand-alt: #4500c6;
   --color-border-disabled: #cdd5df;
@@ -41,27 +32,6 @@
   --color-border-secondary: #e3e8ef;
   --color-border-secondary-alt: rgba(0, 0, 0, 0.5);
   --color-border-tertiary: #eef2f6;
-  --color-foreground-brand-primary: #5f09ff;
-  --color-foreground-brand-primary-alt: #4500c6;
-  --color-foreground-brand-secondary: #5f09ff;
-  --color-foreground-brand-secondary-alt: #4500c6;
-  --color-foreground-brand-secondary-hover: #4500c6;
-  --color-foreground-disabled: #9aa4b2;
-  --color-foreground-disabled-subtle: #cdd5df;
-  --color-foreground-error-primary: #d92d20;
-  --color-foreground-error-secondary: #f04438;
-  --color-foreground-fg-success-secondary: #17bc6f;
-  --color-foreground-primary: #121926;
-  --color-foreground-quaternary: #9aa4b2;
-  --color-foreground-quaternary-hover: #697586;
-  --color-foreground-secondary: #364152;
-  --color-foreground-secondary-hover: #202939;
-  --color-foreground-success-primary: #079455;
-  --color-foreground-tertiary: #4b5565;
-  --color-foreground-tertiary-hover: #364152;
-  --color-foreground-warning-primary: #dc6803;
-  --color-foreground-warning-secondary: #f79009;
-  --color-foreground-white: #ffffff;
   --color-icon-primary: #ffffff;
   --color-icon-brand: #5f09ff;
   --color-icon-featured-error: #f04438;
@@ -70,8 +40,8 @@
   --color-icon-featured-warning: #f79009;
   --color-icon-on-brand: #a76fff;
   --color-text-brand-primary: #5f09ff;
-  --color-text-brand-secondary: #290073;
-  --color-text-brand-secondary-hover: #290073;
+  --color-text-brand-secondary: #2f00ae;
+  --color-text-brand-secondary-hover: #2f00ae;
   --color-text-brand-tertiary: #4500c6;
   --color-text-brand-tertiary-alt: #4500c6;
   --color-text-disabled: #697586;
