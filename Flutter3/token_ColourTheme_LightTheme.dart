@@ -31,6 +31,7 @@ class  {
     static const colorBorderDestructive = Color(0xFFF04438);
     static const colorBorderDestructiveSubtle = Color(0xFFFDA29B);
     static const colorBorderDisabled = Color(0xFFCDD5DF);
+    static const colorBorderFocus = Color(0xFF202939);
     static const colorBorderSecondary = Color(0xFFE3E8EF);
     static const colorBorderTertiary = Color(0xFFEEF2F6);
     static const colorIconBrand = Color(0xFF5F09FF);
