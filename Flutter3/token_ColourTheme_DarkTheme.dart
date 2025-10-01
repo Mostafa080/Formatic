@@ -13,7 +13,7 @@ class  {
     static const colorBgDefault = Color(0xFF000000); /* Page or app canvas background */
     static const colorBgDestructive = Color(0xFFF04438);
     static const colorBgDestructiveSubtle = Color(0xFFFEE4E2);
-    static const colorBgDisable = Color(0xFF9AA4B2); /* Pressed/active container state */
+    static const colorBgDisable = Color(0xFFE3E8EF); /* Pressed/active container state */
     static const colorBgHover = Color(0xFF4500C6); /* Hovered container/list item/tab. */
     static const colorBgInfo = Color(0xFF2970FF);
     static const colorBgInfoSubtle = Color(0xFFD1E0FF);
@@ -40,10 +40,10 @@ class  {
     static const colorIconSecondary = Color(0xFF202939);
     static const colorIconSuccess = Color(0xFF17BC6F);
     static const colorIconWarning = Color(0xFFF79009);
+    static const colorTextBrand = Color(0xFF5F09FF);
     static const colorTextDestructive = Color(0xFFF04438);
     static const colorTextDestructiveHover = Color(0xFFB42318);
     static const colorTextDisabled = Color(0xFF9AA4B2);
-    static const colorTextLink = Color(0xFF5F09FF);
     static const colorTextPlaceholder = Color(0xFF4B5565);
     static const colorTextPrimary = Color(0xFFFFFFFF);
     static const colorTextSecondary = Color(0xFF697586);
